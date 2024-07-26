@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "preinstall": "echo 'preinstall'"
+  },
+  "devDependencies": {
+    "nx": "19.5.1"
+  }
+}
